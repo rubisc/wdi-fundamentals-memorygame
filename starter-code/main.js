@@ -6,11 +6,11 @@ var cardThree = "king";
 var cardFour = "king";
 
 if (cardTwo === cardFour) {
-  alert ('Sorry, this is not a match. Give it anothr try.');
+  alert ('Sorry, this is not a match. Give it another try.');
 } else if (cardOne === cardTwo) {
   alert ('Congrats! You found a match.');
 } else if (cardThree === cardFour) {
   alert ('Congrats! You found a match.');
 } else
-  alert ('Sorry, this is not a match. Give it anothr try.');
+  alert ('Sorry, this is not a match. Give it another try.');
   }
